@@ -23,6 +23,7 @@ duration: 35min
 
 *Wait, it's just a bit of Javascript?*
 
+*github.com/rasgaard/slides*
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
@@ -114,7 +115,7 @@ We're used to dealing with a bunch of complications out of necessity
 layout: center
 ---
 
-# Common AI Deployment headaches?
+# Common AI deployment headaches?
 
 - ...
 
@@ -167,7 +168,7 @@ Javascript
 
 ---
 
-# Essential code for transcription site
+# Core of transcription site
 https://github.com/rasgaard/webai-stuff/tree/main/transcribe
 
 ```javascript{all|1|3|4|9|}
@@ -228,7 +229,7 @@ layout: quote
 
 # How to get started?
 
-Follow the lead developer Joshua Lochner (Xenova)
+Follow the lead developer, Joshua Lochner (Xenova)
 - https://www.linkedin.com/in/xenova/recent-activity/all/
 
 Take a look at the demos 
