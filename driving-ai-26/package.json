@@ -1,0 +1,21 @@
+{
+  "name": "driving-ai-2026",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.14.1",
+    "@slidev/theme-apple-basic": "^0.25.1",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-addon-tikzjax": "^0.1.0",
+    "vue": "^3.5.29"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.60.0"
+  }
+}
